@@ -7,7 +7,7 @@ This project demonstrates a modular and scalable ETL pipeline for analyzing heal
 ## 📁 Project Structure
 
 ```
-Final-Project-CIS660/
+Final-Project/
 ├── ETL_pipeline_code/
 │   ├── bronze_silver.html
 │   ├── silver_to_gold.html
